@@ -1,7 +1,8 @@
---Summary- The purpose of this COVID-19 project is to shed some light and insights about the virus and how it affects the World. In the project i examin the covid19 consucounces of diffrent countries 
--- as well as different calculations that show - The chances of dying from the virus if you already got infected- in different countries.  -The precentage of the country population which got infected-> can tell how well the country protect itself from the virus.
+--Summary- The purpose of this COVID-19 project is to shed some light and insights about the virus and how it affects the World. In the project, I examined the COVID-19 consciences of different countries 
+-- as well as different calculations that show - The chances of dying from the virus if you already got infected- in different countries.  -The percentage of the country's population which got infected->
+can tell how well the country protects itself from the virus.
 --Next, I calculated which country had the most deaths compared to its population. 
---Then, I added a new Table with Data about Vaccinations and started to calculate the countries which had the most vaccinations for people.
+--Then, I added a new Table with Data about Vaccinations and started to calculate the countries that had the most vaccinations for people.
 
 SELECT * fROM PortfolioProject..CovidDEATH
 
